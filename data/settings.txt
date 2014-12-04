@@ -1,0 +1,32 @@
+SENSOR_MOD: 0
+
+HOST_IP: localhost
+
+send_port: 12345
+
+recieve_port: 54321
+
+ScreenSize: 1280 960
+
+ScreenLocation: 0 0
+
+minDepth: 500
+
+maxDepth: 800
+
+mintouchDepth: 5
+
+maxtouchDepth: 500
+
+threshold: 200
+
+# each sensor area points are blow:
+
+sensor_area1: 16.0 17.0
+
+sensor_area2: 603.0 21.0
+
+sensor_area3: 605.0 460.0
+
+sensor_area4: 13.0 457.0
+
